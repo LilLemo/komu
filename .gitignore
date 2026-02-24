@@ -1,0 +1,20 @@
+# Xcode
+#
+# gitignore contributors: remember to update Global/Xcode.gitignore, Objective-C.gitignore & Swift.gitignore
+
+## User settings
+xcuserdata/
+
+## Xcode temporary files
+DerivedData/
+*.moved-aside
+*.xcuserstate
+
+## Apple files
+.DS_Store
+
+## Swift Package Manager
+.build/
+
+## Environment Variables
+.env
