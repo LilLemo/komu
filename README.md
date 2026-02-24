@@ -9,14 +9,18 @@
 
 ---
 
-## 🚀 Sobre o Projeto
+## 🚀 Sobre o Projeto (About)
 
-O Komu nasceu para resolver um problema comum: a falta de controle sobre o valor total do carrinho antes de chegar ao caixa e a dificuldade de dividir contas em casas compartilhadas.
+O **Komu** é mais do que uma simples lista de compras; é uma ferramenta de **inteligência financeira doméstica**. Desenvolvido com foco na experiência do usuário e na eficiência de dados, o aplicativo transforma a tarefa muitas vezes caótica de ir ao supermercado em uma sessão organizada e controlada.
 
-### Principais Diferenciais:
-- **Controle Preciso:** Acompanhe o valor acumulado conforme adiciona itens ao carrinho.
-- **Divisão Inteligente:** Saiba exatamente quanto cada membro da casa está gastando.
-- **Experiência Premium:** Design baseado em princípios de *Neumorphism* e *Glassmorphism*, focado em usabilidade.
+### O Problema
+Muitas pessoas perdem o controle dos gastos reais durante as compras, descobrindo o valor total apenas no caixa. Além disso, em moradias compartilhadas, a divisão manual de itens e custos após a compra é um processo lento e propenso a erros.
+
+### A Solução
+O Komu introduz o conceito de **"Sessão Ativa"**:
+- **Acompanhamento de Varejo:** Insira preços reais conforme coloca os itens no carrinho e veja o total atualizar instantaneamente.
+- **Micro-gestão Financeira:** Atribua cada item ao seu respectivo "dono" dentro da casa.
+- **Visualização de Dados:** Resumos automáticos que mostram o tempo gasto, total geral e o saldo devedor de cada participante.
 
 ---
 
